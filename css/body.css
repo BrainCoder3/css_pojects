@@ -325,3 +325,36 @@ p{
 
 
 }
+
+
+.final-section{
+    margin-top: 150px;
+}
+
+
+.thank-text{
+    font-weight: bold;
+    font-size: 24px;
+
+    margin-bottom: 80px;
+    text-align: center;
+
+}
+
+.thank-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.checked-image{
+    border-radius: 5px;
+    width: 250px;
+    border-style: none;
+}
+
+.receiver-text{
+    font-weight: 500;
+    font-size: 18px;
+}
